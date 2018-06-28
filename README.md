@@ -1,6 +1,6 @@
 # ProducePicker
 
-Forecast produce prices. 
+Code behind The Clairvoyant Cantaloupe, a tool to forecast the wholesale produce market.
 
 # About
 This repository contains the code I wrote as a Data Science Fellow at the 2018 Summer Insight Data Science Fellows session in NYC. 
