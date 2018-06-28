@@ -1,5 +1,7 @@
 # ProducePicker
 
+Forecast produce prices. 
+
 # About
 This repository contains the code I wrote as a Data Science Fellow at the 2018 Summer Insight Data Science Fellows session in NYC. 
 
